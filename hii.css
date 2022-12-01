@@ -1,0 +1,27 @@
+h1 {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+
+}
+h2 {
+    background-color: antiquewhite;
+    margin: 0%;
+}
+
+h3{
+    background-color: antiquewhite;
+    margin: 0%;
+}
+h4{
+    background-color: antiquewhite;
+    margin: 0%;
+}
+
+#hero {
+    background-color: darkgrey;
+    margin: 1%;
+    display: flex;
+    justify-content: center; 
+}
+
